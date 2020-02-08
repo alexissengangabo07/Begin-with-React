@@ -1,0 +1,1 @@
+﻿Une application dans le but d'accumuler les base de javascript et du react notamment: * la manipulation d'objects/classe, state, props, et autres
